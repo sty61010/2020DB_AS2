@@ -1,0 +1,16 @@
+time(sec), throughput(txs), avg_latency(ms), min(ms), max(ms), 25th_lat(ms), median_lat(ms), 75th_lat(ms)
+5,1518,3,3,12,3,3,4
+10,1286,3,3,21,3,3,4
+15,1289,3,3,10,3,3,4
+20,1264,3,3,29,3,3,4
+25,1259,3,3,12,3,3,4
+30,1294,3,3,11,3,3,4
+35,1281,3,3,12,3,3,4
+40,1286,3,3,14,3,3,4
+45,1302,3,3,10,3,3,4
+50,1268,3,3,12,3,3,4
+55,1270,3,3,12,3,3,4
+
+UPDATE_ITEM - committed: 3076, aborted: 0, avg latency: 4 ms
+READ_ITEM - committed: 12278, aborted: 0, avg latency: 3 ms
+TOTAL - committed: 15354, aborted: 0, avg latency: 4 ms
